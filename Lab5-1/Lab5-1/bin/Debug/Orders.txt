@@ -1,0 +1,50 @@
+04/06/2022
+Sugar Cone
+System.Windows.Forms.ComboBox, Items.Count: 6
+System.Windows.Forms.ListBox, Items.Count: 6, Items[0]: Chopped Nuts 
+
+04/06/2022
+Sugar Cone
+System.Windows.Forms.ComboBox, Items.Count: 6
+
+04/06/2022
+Waffle cone
+System.Windows.Forms.ComboBox, Items.Count: 6
+
+04/06/2022
+Sugar Cone
+System.Windows.Forms.ComboBox, Items.Count: 6
+
+04/06/2022
+Waffle cone
+System.Windows.Forms.ComboBox, Items.Count: 6
+Cinnamon Dots 
+Gummy Stars 
+
+04/06/2022
+Waffle Cone
+System.Windows.Forms.ComboBox, Items.Count: 6
+Chopped Nuts 
+
+04/06/2022
+Sugar Cone
+System.Windows.Forms.ComboBox, Items.Count: 6
+Marshmallows 
+Candy Sprinkles 
+Cinnamon Dots 
+Gummy Stars 
+
+04/06/2022
+Waffle Cone
+Rocky Road 
+Chopped Nuts 
+Chocolate Chips 
+Marshmallows 
+
+04/06/2022
+Waffle Cone
+Butter Pecan 
+Chopped Nuts 
+Chocolate Chips 
+Marshmallows 
+
